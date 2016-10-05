@@ -13,7 +13,7 @@ function setup() {
   createCanvas(width,height);
   background(255,255,0);
   frameRate(1);
-  stroke(255);
+  //stroke(255);
 }
 
 function draw() {
