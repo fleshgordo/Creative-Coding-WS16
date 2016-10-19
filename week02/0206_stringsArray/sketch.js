@@ -11,6 +11,7 @@ function draw() {
   textSize(height/20);
   text(outputText,100,100);
 }
+
 function mousePressed() {
   outputText = "";
   var randomNumber = int(random(randomRange));
