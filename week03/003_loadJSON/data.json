@@ -2,21 +2,31 @@
     "person1": {
         "name": "Morgan",
         "age": "33",
-        "location": "Zurich"
+        "location": "Zurich",
+        "colour": "#00ff00"
     },
     "person2": {
         "name": "Joss",
         "age": "42",
-        "location": "Geneva"
+        "location": "Geneva",
+        "colour": "#ff0000"
     },
     "person3": {
         "name": "Stanley",
         "age": "66",
-        "location": "New York"
+        "location": "New York",
+        "colour": "#0000ff"
     },
     "person4": {
         "name": "Claude",
         "age": "18",
-        "location": "Paris"
+        "location": "Paris",
+        "colour": "#633323"
+    },
+    "person5": {
+        "name": "Gordan",
+        "age": "36",
+        "location": "Lausanne",
+        "colour": "#141241"
     }
 }
